@@ -1,0 +1,13 @@
+{
+  "name": "learning-rxjs",
+  "version": "1.0.0",
+  "description": "try to learn RxJS",
+  "main": "index.js",
+  "repository": "https://github.com/jimleestone/learning-rxjs.git",
+  "author": "Jim <jimleestone@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rxjs": "^7.4.0"
+  },
+  "type": "module"
+}
